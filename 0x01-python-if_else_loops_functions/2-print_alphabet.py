@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-for c in range(ord('a'), ord('z')+1):
-    print(f"{c:c}", end="")
+for s in range(ord('a'), ord('z')+1):
+    print(f"{s:c}", end="")
