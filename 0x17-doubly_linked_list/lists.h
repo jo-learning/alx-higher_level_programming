@@ -1,3 +1,7 @@
+#include <stdio.h>
+#include <stddef.h>
+#include <stddef.h>
+
 /**
  * struct dlistint_s - doubly linked list
  * @n: integer
