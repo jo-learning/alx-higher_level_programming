@@ -1,9 +1,9 @@
 #!/usr/bin/python3
 """Module for add_integer method."""
 
-
 def add_integer(a, b=98):
-    """Adds two integers.
+    """
+    Adds two integers.
 
     Args:
         a: the first integer.
