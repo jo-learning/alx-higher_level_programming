@@ -20,7 +20,7 @@ Test one int argument and check default second:
 
 Test one float:
 
-    >>> add_integer(123.999)
+    >>> add_integer(123.9)
     221
 
 Test one negative float:
